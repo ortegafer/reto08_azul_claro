@@ -1,0 +1,55 @@
+body {
+    background: #fff;
+    color: #222;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #e2211c;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.card {
+    background: #f7f7f7;
+    border-left: 6px solid #e2211c;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px #ddd;
+    padding: 16px 24px;
+    margin-bottom: 18px;
+}
+
+.dash-dropdown, .Select-control, .Select-menu-outer {
+    border-color: #e2211c !important;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet {
+    background: #fff;
+    color: #222;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet th {
+    background: #e2211c;
+    color: #fff;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet td {
+    border-bottom: 1px solid #e2211c;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet tr.selected td {
+    background: #ffeaea !important;
+}
+
+.dccGraph {
+    background: transparent !important;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px #ddd;
+    margin-bottom: 18px;
+}
+
+.js-plotly-plot .plotly, 
+.js-plotly-plot .svg-container, 
+.js-plotly-plot .main-svg {
+    background: transparent !important;
+}
