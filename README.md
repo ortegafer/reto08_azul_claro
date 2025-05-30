@@ -30,10 +30,11 @@ Este proyecto está enfocado en la optimización de compresores industriales med
 
 ## Notebooks principales
 - `1. Preprocesamiento.ipynb`: Limpieza y transformación de datos de sensores y logs.
-- `2. Deteccion_de_anomalias.ipynb`: Identificación de comportamientos anómalos en los datos.
-- `3-4-5-6. DM_compresor_A/B/C/D.ipynb`: Análisis y modelado específico para cada compresor.
-- `7. DM_optimizacion.ipynb`: Algoritmos de optimización (genéticos y otros) aplicados a compresores.
+- `2. Analisis_descriptivo.ipynb`: Exploración y visualización de datos (estadísticas, tendencias, correlaciones).
+- `3. Deteccion_de_anomalias.ipynb`: Identificación de comportamientos anómalos en los datos.
+- `4-5-6-7. DM_compresor_A/B/C/D.ipynb`: Análisis y modelado específico para cada compresor.
+- `8. DM_optimizacion.ipynb`: Algoritmos de optimización (genéticos y otros) aplicados a compresores.
 
-- `8. MYsql_MongoDB_Consultas.ipynb`: Ejemplo de integración de datos y consultas avanzadas (opcional).
+- `9. MYsql_MongoDB_Consultas.ipynb`: Ejemplo de integración de datos y consultas avanzadas (opcional).
 
 - La aplicación Dash se encuentra en el proyecto de Drive ya que necesitaba un csv sacado de las consultas de Data Science. Para la profesora de visu se ha habilitado otro github compratida con ella. 
